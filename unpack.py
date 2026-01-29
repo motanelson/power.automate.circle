@@ -1,4 +1,5 @@
 def unpacks(r):
+    num=[1,256,256*256,256*256*256]
     try:
         rr=0
         counter=0
@@ -14,7 +15,7 @@ def unpacks(r):
 print( "\033c\033[40;37m\n ? ")
 a="my.dat"
 b=[]
-num=[1,256,256*256,256*256*256]
+
 f1=open(a,"rb")
 while(1):
     try:
