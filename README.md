@@ -1,2 +1,1 @@
-
-https://youtu.be/s1i-dnAH9Y4?si=BLId8yefG-m0L4_j
+predicts a number from 20 to 40 to x of value y
